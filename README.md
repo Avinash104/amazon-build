@@ -28,3 +28,5 @@ yarn add @heroicons/react
 yarn add @heroicons/react@v1
 yarn add react-responsive-carousel
 yarn add react-currency-formatter
+yarn add next-auth
+yarn add firebase
